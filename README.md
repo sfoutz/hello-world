@@ -1,3 +1,6 @@
 # hello-world
 tutorial repository
-My name is Stephanei and I am learing Git.
+
+Hello Strangers!!
+
+My name is Stephanie and I am learing Git.
